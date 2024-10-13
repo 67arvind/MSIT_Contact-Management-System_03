@@ -39,20 +39,20 @@ To compile the program, use the following command:
 
 
 Code :-
-
+'''
 javac ContactManager.java
 Execution
 To run the program, use the following command:
-
+'''
 
 Code :-
-
+'''
 java ContactManager
 Files
 Contact.java: Class representing a contact.
 
 ContactManager.java: Class managing the contact list.
-
+'''
 Persistent Storage
 Contacts can be stored in memory or written to a file for persistent storage. Ensure the file path is correctly set in the program to save and retrieve contacts from a file.
 
